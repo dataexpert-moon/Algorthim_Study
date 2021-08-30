@@ -16,4 +16,3 @@ for coin in coin_types:
   N %= coin
 
 print(cnt)
-
